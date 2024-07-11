@@ -59,9 +59,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 4. Push to the branch (`git push origin feature/fooBar`).
 5. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
